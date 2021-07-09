@@ -1,0 +1,18 @@
+- Installation/Uninstall
+- Application Start/Stop
+- Voice call/text messages
+- Device Adaptation
+- Device Specific
+- Network Specific
+- App Specific
+- App User interface
+- Notifications
+- Orientations
+- Key Press
+- Gesture
+- Security 
+- Update
+- Location
+- Perfomance
+- Platform specific
+- User types specific
